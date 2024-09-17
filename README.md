@@ -8,7 +8,7 @@
 - 🌱 扩展我在所有感兴趣领域的知识。
 - 💬 让我们讨论一下前端、人工智能、Python等等。
 - 📫 通过电子邮件联系1482196793@qq.com.
-- 🔭 在我的博客中了解更多信息：<a href=“https://blog.csdn.net/qq_60587956/“>
+- 🔭 在我的博客中了解更多信息：<a href="https://blog.csdn.net/qq_60587956/"><img src="https://img.shields.io/badge/CSDN-blog-c32136" /></a> .
 - 🌟 祝你度过充满神奇和奇妙时刻的一天。
 
 
