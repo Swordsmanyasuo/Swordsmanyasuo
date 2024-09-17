@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Swordsmanyasuo/Swordsmanyasuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Fucl;" />
+</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 你好！我是Fucl，一个充满好奇心的前端工程师，正在不断提升能力以满足前者。
+- 🌱 扩展我在所有感兴趣领域的知识。
+- 💬 让我们讨论一下前端、人工智能、Python等等。
+- 📫 通过电子邮件联系1482196793@qq.com.
+- 🔭 在我的博客中了解更多信息：<a href=“https://blog.csdn.net/qq_60587956/“>
+- 🌟 祝你度过充满神奇和奇妙时刻的一天。
+
+
